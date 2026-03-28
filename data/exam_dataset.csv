@@ -1,0 +1,51 @@
+id,name,board,date,shift,slots,city
+1,UPSC CSE Prelims,UPSC,2025-05-25,Morning,12000,Delhi
+2,UPSC CSE Prelims,UPSC,2025-06-01,Morning,8000,Mumbai
+3,SSC CGL Tier 1,SSC,2025-05-25,Morning,25000,Delhi
+4,SSC CGL Tier 1,SSC,2025-05-28,Morning,28000,Delhi
+5,SSC CGL Tier 1,SSC,2025-06-04,Morning,30000,Chennai
+6,SSC CGL Tier 1,SSC,2025-06-11,Morning,22000,Bangalore
+7,RRB NTPC CBT 1,RRB,2025-05-25,Morning,40000,Delhi
+8,RRB NTPC CBT 1,RRB,2025-06-01,Morning,45000,Mumbai
+9,RRB NTPC CBT 1,RRB,2025-06-08,Morning,38000,Chennai
+10,TNPSC Group 1,TNPSC,2025-05-25,Morning,5000,Chennai
+11,TNPSC Group 1,TNPSC,2025-06-08,Morning,12000,Coimbatore
+12,TNPSC Group 1,TNPSC,2025-06-15,Morning,18000,Madurai
+13,TNPSC Group 2,TNPSC,2025-05-25,Afternoon,8000,Chennai
+14,TNPSC Group 2,TNPSC,2025-06-22,Morning,20000,Trichy
+15,TNPSC Group 4,TNPSC,2025-07-06,Morning,25000,Chennai
+16,TNPSC Group 4,TNPSC,2025-07-13,Morning,30000,Coimbatore
+17,IBPS PO Prelims,IBPS,2025-10-04,Morning,35000,Delhi
+18,IBPS PO Prelims,IBPS,2025-10-05,Morning,40000,Mumbai
+19,IBPS PO Prelims,IBPS,2025-10-11,Morning,38000,Chennai
+20,IBPS PO Prelims,IBPS,2025-10-12,Morning,42000,Bangalore
+21,IBPS Clerk Prelims,IBPS,2025-10-04,Afternoon,30000,Delhi
+22,IBPS Clerk Prelims,IBPS,2025-11-08,Morning,40000,Chennai
+23,SBI PO Prelims,SBI,2025-11-08,Morning,20000,Delhi
+24,SBI PO Prelims,SBI,2025-11-15,Morning,22000,Chennai
+25,SBI PO Prelims,SBI,2025-11-16,Morning,28000,Bangalore
+26,SBI Clerk Prelims,SBI,2025-11-08,Afternoon,18000,Delhi
+27,NDA 1,UPSC,2025-04-13,Morning,15000,Delhi
+28,CDS 1,UPSC,2025-04-13,Morning,10000,Chennai
+29,SSC CHSL Tier 1,SSC,2025-06-01,Morning,28000,Delhi
+30,SSC CHSL Tier 1,SSC,2025-06-08,Morning,32000,Mumbai
+31,SSC CPO,SSC,2025-06-23,Morning,20000,Delhi
+32,SSC MTS,SSC,2025-07-14,Morning,45000,Delhi
+33,SSC MTS,SSC,2025-07-15,Morning,48000,Mumbai
+34,RRB Group D,RRB,2025-08-10,Morning,80000,Delhi
+35,RRB Group D,RRB,2025-08-11,Morning,85000,Mumbai
+36,RRB Group D,RRB,2025-08-12,Morning,78000,Chennai
+37,IBPS RRB PO,IBPS,2025-08-03,Morning,32000,Delhi
+38,IBPS RRB PO,IBPS,2025-08-09,Morning,35000,Mumbai
+39,IBPS RRB Clerk,IBPS,2025-08-03,Afternoon,38000,Chennai
+40,TNPSC VAO,TNPSC,2025-10-19,Morning,15000,Chennai
+41,TNPSC VAO,TNPSC,2025-10-26,Morning,18000,Coimbatore
+42,RRB ALP,RRB,2025-11-23,Morning,60000,Delhi
+43,RRB ALP,RRB,2025-11-24,Morning,65000,Mumbai
+44,UPSC EPFO,UPSC,2025-09-14,Morning,18000,Delhi
+45,NDA 2,UPSC,2025-09-14,Morning,18000,Delhi
+46,IBPS PO Mains,IBPS,2025-11-30,Morning,30000,Delhi
+47,SBI PO Mains,SBI,2025-12-07,Morning,20000,Mumbai
+48,IBPS Clerk Mains,IBPS,2025-12-13,Morning,28000,Delhi
+49,SBI Clerk Mains,SBI,2025-12-14,Morning,25000,Mumbai
+50,UPSC CSE Mains,UPSC,2025-09-20,Morning,3000,Delhi

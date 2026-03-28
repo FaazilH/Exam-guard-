@@ -1,0 +1,24 @@
+﻿Analyzing flutter_application_1...                              
+
+   info - The constant name 'BASE_URL' isn't a lowerCamelCase identifier - lib\core\constants.dart:3:14 - constant_identifier_names
+   info - The constant name 'EXAM_DATASET' isn't a lowerCamelCase identifier - lib\core\constants.dart:34:34 - constant_identifier_names
+   info - The private field _obscure could be 'final' - lib\features\auth\login_screen.dart:226:8 - prefer_final_fields
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\features\exam\exam_detail_screen.dart:322:36 - use_build_context_synchronously
+   info - Unnecessary braces in a string interpolation - lib\services\api_service.dart:115:57 - unnecessary_brace_in_string_interps
+
+flutter : 5 issues found. 
+(ran in 1.6s)
+At line:1 char:1
++ flutter analyze 2>&1 | 
+Out-File -FilePath 
+"analyze_final.txt" -Encodi 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (5 issue  
+  s found. (ran in 1.6s):S   
+ tring) [], RemoteExcepti    
+on
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
